@@ -5,7 +5,7 @@ public class Archivo1 {
         System.out.println("Instantanea 2");
         System.out.println("Instantanea 3");
         System.out.println("Instantanea 1 con Rama1");
-        System.out.println("Generando conflicto desde Rama1");
+        System.out.println("Generando conflicto desde rama main")
 
     }
 }
