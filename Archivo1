@@ -2,5 +2,6 @@ public class Archivo1 {
     public static void main(String[] args) {
         System.out.println("Hola proyecto");
         System.out.println("Instantanea 1");
+        System.out.println("Instantanea 2");
     }
 }
