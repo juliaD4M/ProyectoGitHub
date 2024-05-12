@@ -4,5 +4,6 @@ public class Archivo2 {
         System.out.println("Instantanea 4");
         System.out.println("Instantanea 5");
         System.out.println("Instantanea 3 con Rama1");
+        System.out.println("Añadiendo cambios para generar pull reset desde otro usuario");
     }
 }
