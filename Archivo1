@@ -6,6 +6,7 @@ public class Archivo1 {
         System.out.println("Instantanea 3");
         System.out.println("Instantanea 1 con Rama1");
         System.out.println("Generando conflicto desde rama main")
+        System.out.println("Añadiendo codigo para pull reset de un fork")
 
     }
 }
